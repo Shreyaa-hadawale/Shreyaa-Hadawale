@@ -8,4 +8,4 @@
 ### 🛠️ Skills
 - Programming Languages: C, C++, Python, Java  
 - Web Technologies: HTML, CSS  
-- Tools: Git, GitHub, VS Code  
+- Tools:  GitHub, VS Code  
